@@ -15,10 +15,13 @@
 I love to golf and play guitar.*
 
 ### HOW TO RUN PROGRAM
-do this and that
+*do this and that*
+1. do this first
+2. do this second
+3. do this third
 
 #### Files Used 
-
+*No files yet*
 ##### Additional Documentation 
 
 ###### Versioning
